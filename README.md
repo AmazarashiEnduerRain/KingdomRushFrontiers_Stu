@@ -2,9 +2,9 @@
 
 这是一份南京大学智能科学与技术专业大二学生秋季课程程序设计实训的课程项目。本项目仿照经典塔防游戏王国保卫战：前线(KingdomRush:Frontiers)进行开发，并以开源项目[KingdomRushFrontiers](https://github.com/exmex/KingdomRushFrontiers)和Cocos2d引擎为基础。我们首先对于原项目进行深入地学习、理解，并成功完成复现，随后对于原项目的缺陷进行了修复和完善并自主进行了功能扩展实现。   
 
-解压后，你可以在文件夹内看到原项目的资源文件。目前，资源文件已经替换为我们完善后的版本。
+解压后，你可以在文件夹内看到原项目的资源文件。目前，资源文件已经替换为我们完善后的版本。  
 
-
+我们在GameView的注释中保留了我们所使用的调试代码，你可以使用它来直接解锁所有关卡。若想要运行本项目，请使用Microsoft Visual Studio进行编译生成。若产生LINK错误、提示缺少外部文件，请使用Python2运行cocos2d文件夹中的download-deps.py;另外，在使用Microsoft Visual Studio（例如2022）打开项目时，请重定目标解决方案至最新版本。
 
 # 项目贡献
 
