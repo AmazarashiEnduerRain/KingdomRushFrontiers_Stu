@@ -12,7 +12,7 @@
 
 # 致谢
 
-![image](.\README.assets\image.png)
+![image](README.assets\image.png)
 
 感谢Wu Hao Yu, Zhang Jun Jie, Zhang Lei, Zhang Qing他们完成的优秀的开源项目，让我们受益匪浅。我们站在了巨人的肩膀上。
 
